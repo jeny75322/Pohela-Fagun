@@ -29,7 +29,7 @@ body{
 .envelope{position:relative;
            width: 300px; 
            height: 200px;
-           background-color: #f08080;
+           background-color: #ee4b4b;
     }
 
  .envelope:before{background-color: #f08080;
@@ -45,7 +45,7 @@ body{
 
 
     .card{position: absolute;
-        background-color: #eae2b7;
+        background-color: #f7f761;
         width: 270px;
         height: 170px;
         top: 5px;
